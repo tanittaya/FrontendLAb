@@ -1,3 +1,4 @@
 # https://www.robotstxt.org/robotstxt.html
 User-agent: *
-Disallow:
+Disallow: //สมมุติเว็ยส่วนตัวเราจะไม่อนุญ่ตอให้มันมาอ่าน
+//callไปอ่านไฟล์เว็บนั้นๆว่าเราอนุญาติให้อ่านเว็บของคุณไหม
